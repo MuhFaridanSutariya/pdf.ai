@@ -1,4 +1,5 @@
 # Question Answering From PDF File
+This Project only for Exploration about Simple RAG (Retrieval Augmented Generation) Implementation with PDF File.
 
 ## Project Structure
 
