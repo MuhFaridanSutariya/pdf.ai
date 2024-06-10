@@ -1,0 +1,7 @@
+openai
+langchain
+chainlit
+tiktoken
+pdfplumber
+chromadb
+ruff
