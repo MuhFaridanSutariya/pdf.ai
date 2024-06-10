@@ -8,8 +8,8 @@ The directory structure of new project looks like this:
 
 │
 ├── src                    <- Source code
-│   ├── models                   <- Model scripts
-│   ├── utils                    <- Utility scripts
+│   ├── models             <- Model scripts
+│   ├── utils              <- Utility scripts
 │
 ├── app.py                 <- Main Application
 │
