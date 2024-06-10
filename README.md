@@ -17,6 +17,7 @@ The directory structure of new project looks like this:
 ├── .gitignore             <- List of files ignored by git
 ├── requirements.txt       <- File for installing python dependencies
 └── README.md
+```
 
 ### References
 
