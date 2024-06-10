@@ -91,6 +91,6 @@ How to run Web App:
 
 ``chainlit run app.py``
 
-### References
+## References
 
 Built using inspiration from LinkedIn Learning course [**'Hands-On AI: Building LLM-Powered Apps' by Han-chung Lee**](https://www.linkedin.com/learning/hands-on-ai-building-llm-powered-apps/)
