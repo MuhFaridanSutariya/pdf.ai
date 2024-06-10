@@ -5,12 +5,12 @@ from literalai import LiteralClient
 from chainlit.types import AskFileResponse
 
 
-from src.pdf_processor import PDFProcessor
-from src.search_engine_builder import SearchEngineBuilder
+from src.utils.pdf_processor import PDFProcessor
+from src.utils.search_engine_builder import SearchEngineBuilder
 from src.models.chat_models import ChatModels
 from src.models.embeddings import Embeddings
 from src.models.qa_chains import QAChains
-from src.prompts import EXAMPLE_PROMPT, COMBINE_PROMPT
+from src.utils.prompts import EXAMPLE_PROMPT, COMBINE_PROMPT
 
 class PDFChatApplication:
     def __init__(self, client: LiteralClient):
