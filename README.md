@@ -1,4 +1,4 @@
-# Simple Question Answering From PDF File
+# Question Answering From PDF File
 
 ## Project Structure
 
