@@ -5,3 +5,7 @@ tiktoken
 pdfplumber
 chromadb
 ruff
+literal
+python-dotenv
+literalai
+asyncio
