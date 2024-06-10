@@ -11,11 +11,11 @@ The directory structure of new project looks like this:
 │   ├── models                   <- Model scripts
 │   ├── utils                    <- Utility scripts
 │
-├── app.py                    <- Main Application
+├── app.py                 <- Main Application
 │
-├── .env.example              <- Example of file for storing private environment variables
-├── .gitignore                <- List of files ignored by git
-├── requirements.txt          <- File for installing python dependencies
+├── .env.example           <- Example of file for storing private environment variables
+├── .gitignore             <- List of files ignored by git
+├── requirements.txt       <- File for installing python dependencies
 └── README.md
 
 ### References
