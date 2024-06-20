@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 This command will install all the required packages specified in the `requirements.txt` file 
 
-### 6. Run Gradio
+### 6. Run Chainlit
 
 How to run Web App:
 
